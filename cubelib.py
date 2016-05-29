@@ -1,4 +1,5 @@
 def cube(x):
+    """Cubes that number."""
     return x * x * x
 
 if __name__ == '__main__':
